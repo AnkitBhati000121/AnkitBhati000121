@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkitBhati000121
 - 👀 I’m interested in ..Web Developer.
 - 🌱 I’m currently learning ...Frontend.
-- 💞️ I’m looking to collaborate on ..Frontend developer.
+- 💞️ I’m looking to collaborate on ..Frontend developer, Salesfroce Administrator, Salesfroce Developer.
 - 📫 How to reach me ..by suggest someone.
 
 <!---
